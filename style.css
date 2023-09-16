@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+.text-title{
+  font-family: 'DM Serif Display', serif;
+}
+
+body{
+
+    background: -webkit-linear-gradient(to left, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #FFFFFF, #f4c4f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.opacity-hover:hover{
+    opacity: 50%;
+    transition: all 0.4s ease-out;
+}
+.opacity-hover{
+    transition: all 0.4s ease-out;
+}
+.form-control:focus {
+    background-color: #FFFFFF;
+    border-color: #f4c4f3;
+ 
+    box-shadow: 0 0 0 0.25rem #f4c4f3;
+  }
+  .form-control {
+   
+    color: var(--bs-body-color);
+   
+
+    background: linear-gradient(to left, #f4c4f396, #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+    border: var(--bs-border-width) solid #f4c4f3;
+    border-radius: var(--bs-border-radius);
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  .card {
+   
+    --bs-card-border-color: #f4c4f3 ;
+    --bs-card-border-radius: var(--bs-border-radius);
+    --bs-card-box-shadow: ;
+    
+    --bs-card-bg: var(--bs-body-bg);
+    --bs-card-img-overlay-padding: 1rem;
+    --bs-card-group-margin: 0.75rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    height: var(--bs-card-height);
+    color: var(--bs-body-color);
+    word-wrap: break-word;
+    background-color: var(--bs-card-bg);
+    background-clip: border-box;
+    border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+    border-radius: var(--bs-card-border-radius);
+  }
+  
+  hr {
+    border-color: #aa17a8
+  }

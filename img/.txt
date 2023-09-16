@@ -1,0 +1,23 @@
+1 que es el dom de js
+** https://lenguajejs.com/javascript/dom/que-es/
+Acceder a atributos HTML https://lenguajejs.com/javascript/dom/atributos-del-dom/
+Insertar elementos en el DOM https://lenguajejs.com/javascript/dom/insertar-elementos-dom/
+Librería para manipular el DOM y eventos https://umbrellajs.com/
+
+2 capturar nodos por JavaScript
+**https://uniwebsidad.com/libros/javascript/capitulo-5/acceso-directo-a-los-nodos   
+
+3 crear elementos: padres/hijos en html con js
+**https://lenguajejs.com/javascript/dom/crear-elementos-dom/
+
+4 adicionar y remover clases con js
+Utiliza las propiedades classList.add() y classList.remove() para agregar y quitar clases CSS de un elemento HTML.
+//Modificar los botones
+
+
+5 modificar atributos en html con js
+
+
+6 disparador de eventos con js (sin poner funciones en html)
+
+
